@@ -1,2 +1,2 @@
-# Python Bilimsel Hesap Makinesi
- Python'da eval fonksiyonu ile çalışan bilimsel bir hesap makinesi. 
+# Scientific Calculator in Python
+ It is a scientific calculator that uses eval function in python.
